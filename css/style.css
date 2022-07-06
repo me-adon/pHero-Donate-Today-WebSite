@@ -1,3 +1,11 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+p {
+    font-family: 'Mukta', sans-serif;
+}
+
 .body-margin {
     margin: 0;
 }
@@ -167,9 +175,11 @@
     font-size: 20px;
 }
 
+.margin-top-mid {
+    margin-top: 50px;
+}
+
 .half-width-Img {
-
-
     padding-left: 12%;
 }
 
@@ -213,4 +223,17 @@
 #button {
     background-color: rgb(233, 79, 79);
     color: white;
+}
+
+.foot-er {
+    background-color: black;
+    border: 5px solid black;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+
+.footer-text {
+    color: white;
+    text-align: center;
+
 }
