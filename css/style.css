@@ -146,3 +146,39 @@
     background-color: rgb(253, 253, 225);
     border-radius: 10px;
 }
+
+.margin-top {
+    margin-top: 10%;
+}
+
+.half-width-Contain {
+
+    padding-top: 40px;
+    padding-right: 20px;
+}
+
+.half-width-Head {
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.half-width-Text {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.half-width-Img {
+
+
+    padding-left: 12%;
+}
+
+.How-to-Contribute {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border: 1px solid white;
+    padding: 10px 20px;
+    background-color: rgb(247, 92, 53);
+    border-radius: 15px;
+}
