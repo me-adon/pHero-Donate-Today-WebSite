@@ -110,3 +110,7 @@
 .margin-50 {
     margin-bottom: 50px;
 }
+
+.margin-minus {
+    margin-top: -150px;
+}
