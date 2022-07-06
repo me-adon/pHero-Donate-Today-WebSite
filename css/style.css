@@ -1,0 +1,41 @@
+.body-margin {
+    margin: 0;
+}
+
+.back-img {
+    background-image: url(../images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.textHead {
+    padding-top: 200px;
+    padding-bottom: 50px;
+    font-weight: 700;
+    text-align: center;
+    font-size: 60px;
+    padding-left: 22%;
+    padding-right: 22%;
+    color: white;
+}
+
+.textPara {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 300px;
+    padding-left: 22%;
+    padding-right: 22%;
+}
+
+.Btn {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    border: 1px solid white;
+    margin-left: 700px;
+}
+
+#no-underline {
+    text-decoration: none;
+}
