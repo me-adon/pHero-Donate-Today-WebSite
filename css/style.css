@@ -10,10 +10,10 @@
 
 .textHead {
     padding-top: 200px;
-    padding-bottom: 50px;
+    padding-bottom: 25px;
     font-weight: 700;
     text-align: center;
-    font-size: 60px;
+    font-size: 55px;
     padding-left: 22%;
     padding-right: 22%;
     color: white;
@@ -22,8 +22,8 @@
 .textPara {
     color: white;
     text-align: center;
-    font-size: 30px;
-    padding-bottom: 300px;
+    font-size: 25px;
+    padding-bottom: 30px;
     padding-left: 22%;
     padding-right: 22%;
 }
@@ -31,11 +31,37 @@
 .Btn {
     color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     border: 1px solid white;
     margin-left: 700px;
+    padding: 15px 30px;
+    background-color: brown;
+    border-radius: 15px;
 }
 
 #no-underline {
     text-decoration: none;
+}
+
+.btn-pad-mar {
+    padding-bottom: 150px;
+}
+
+.textHead-Minus {
+    padding-top: 100px;
+    font-weight: 700;
+    text-align: center;
+    font-size: 35px;
+    padding-left: 25%;
+    padding-right: 25%;
+    color: black;
+}
+
+.textPara-Minus {
+    color: black;
+    text-align: center;
+    font-size: 22px;
+    padding-bottom: 30px;
+    padding-left: 25%;
+    padding-right: 25%;
 }
