@@ -70,7 +70,7 @@
     display: flex;
     margin-left: 15%;
     margin-right: 15%;
-    margin-bottom: 20%;
+    margin-bottom: 60px;
 }
 
 .half-width {
@@ -96,4 +96,17 @@
     border-radius: 15px;
     background-color: lightsalmon;
     border: 2px solid tomato;
+}
+
+.textPara-Minus-Extended {
+
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 1px solid black;
+}
+
+.margin-50 {
+    margin-bottom: 50px;
 }
